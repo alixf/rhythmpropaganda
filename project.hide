@@ -1,0 +1,52 @@
+{
+     "type" : 1
+    ,"target" : null
+    ,"name" : "\\RhythmPropaGanda"
+    ,"main" : null
+    ,"projectPackage" : null
+    ,"company" : null
+    ,"license" : null
+    ,"url" : null
+    ,"targetData" : [
+
+    ]
+    ,"files" : [
+         {
+             "path" : "src\\Clock.hx"
+            ,"useTabs" : true
+            ,"indentSize" : 4
+            ,"foldedRegions" : [
+
+            ]
+            ,"activeLine" : 54
+        }
+        ,{
+             "path" : "..\\..\\AppData\\Local\\HIDE\\.HIDE\\settings.json"
+            ,"useTabs" : true
+            ,"indentSize" : 4
+            ,"foldedRegions" : [
+
+            ]
+            ,"activeLine" : 16
+        }
+        ,{
+             "path" : "src\\Inventory"
+            ,"useTabs" : true
+            ,"indentSize" : 4
+            ,"foldedRegions" : [
+
+            ]
+            ,"activeLine" : 0
+        }
+    ]
+    ,"activeFile" : "src\\Inventory"
+    ,"openFLTarget" : "flash"
+    ,"openFLBuildMode" : "Debug"
+    ,"runActionType" : 2
+    ,"runActionText" : "haxelib run lime run \"%path%\" flash"
+    ,"buildActionCommand" : "haxelib run lime build \"%path%\" flash -debug -Dfdb --connect 5000"
+    ,"hiddenItems" : [
+
+    ]
+    ,"showHiddenItems" : false
+}

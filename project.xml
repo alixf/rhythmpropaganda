@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="RhythmPropaGanda" package="com.eolhing.rhythmpropaganda" version="0.1" company="eolhing" />
+	<app main="Game" path="Export" file="RhythmPropaGanda" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	
+	<assets path="assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+</project>
